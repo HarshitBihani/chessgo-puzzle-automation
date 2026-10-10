@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 320' width='1200' height='320'>
+<defs>
+<linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#0b1220'/><stop offset='1' stop-color='#1a1f3d'/></linearGradient>
+<linearGradient id='ac' x1='0' x2='1'><stop offset='0' stop-color='#fbbf24'/><stop offset='1' stop-color='#f472b6'/></linearGradient>
+<marker id='ah' viewBox='0 0 10 10' refX='6' refY='5' markerWidth='5' markerHeight='5' orient='auto'><path d='M0,0 L10,5 L0,10 z' fill='#fbbf24'/></marker>
+</defs>
+<rect width='1200' height='320' rx='16' fill='url(#bg)'/>
+<text x='600' y='112' text-anchor='middle' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='52' font-weight='800' fill='#ffffff'>ChessGo Puzzle Automation</text>
+<text x='600' y='158' text-anchor='middle' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='23' fill='#c4b5fd'>A puzzle channel that runs itself on YouTube, Facebook and Instagram</text>
+<g transform='translate(279,6)' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='15' font-weight='600'>
+<rect x='58' y='184' width='120' height='34' rx='17' fill='#15803d'/><text x='118' y='206' text-anchor='middle' fill='#f0fdf4'>Node.js</text>
+<rect x='190' y='184' width='130' height='34' rx='17' fill='#0e7490'/><text x='255' y='206' text-anchor='middle' fill='#ecfeff'>Playwright</text>
+<rect x='332' y='184' width='110' height='34' rx='17' fill='#b45309'/><text x='387' y='206' text-anchor='middle' fill='#fffbeb'>ffmpeg</text>
+<rect x='454' y='184' width='130' height='34' rx='17' fill='#6d28d9'/><text x='519' y='206' text-anchor='middle' fill='#f5f3ff'>Stockfish</text></g>
+<text x='600' y='268' text-anchor='middle' font-family='Segoe UI,Helvetica,Arial,sans-serif' font-size='16' fill='#94a3b8'>Find  ·  Verify  ·  Build video  ·  Post  ·  Reply to comments</text>
+</svg>
